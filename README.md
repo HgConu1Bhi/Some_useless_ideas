@@ -1,1 +1,1 @@
-# Some_useless_ideas
+Oh··· Boring inventions!
