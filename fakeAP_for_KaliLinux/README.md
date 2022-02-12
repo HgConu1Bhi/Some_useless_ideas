@@ -10,3 +10,6 @@ python fakeAP.py -c 1 -e 'New SSID' -w
 -e, Set the broadcast ESSID as 'New SSID'
 
 -w, Set the fake access point to use WPA2 flagged beacon frames and save handshakes to fakeAPlog.cap
+
+
+****COPY FROM https://hub.fastgit.org/DanMcInerney/fakeAP****
